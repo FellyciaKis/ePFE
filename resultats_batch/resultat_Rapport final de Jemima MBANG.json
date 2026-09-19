@@ -1,0 +1,745 @@
+{
+  "idprojet": 4,
+  "session": 1,
+  "note": null,
+  "eval": [
+    {
+      "critere": "64",
+      "intervenant": "encadrant",
+      "note": 0.7,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Le sujet aborde l'étude comparative de stabilité et d'analyse mécanistique de deux principes actifs dans des médicaments commercialisés, ce qui présente un intérêt industriel classique mais bien ancré dans le contrôle qualité.",
+      "extrait": "Ce travail porte sur l’étude de stabilité accélérée et à long terme de deux médicaments commercialisés, le Novafen 400 mg... et le Périnase",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "64",
+      "intervenant": "rapporteur",
+      "note": 0.7,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Le sujet aborde l'étude comparative de stabilité et d'analyse mécanistique de deux principes actifs dans des médicaments commercialisés, ce qui présente un intérêt industriel classique mais bien ancré dans le contrôle qualité.",
+      "extrait": "Ce travail porte sur l’étude de stabilité accélérée et à long terme de deux médicaments commercialisés, le Novafen 400 mg... et le Périnase",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "64",
+      "intervenant": "president",
+      "note": 0.7,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Le sujet aborde l'étude comparative de stabilité et d'analyse mécanistique de deux principes actifs dans des médicaments commercialisés, ce qui présente un intérêt industriel classique mais bien ancré dans le contrôle qualité.",
+      "extrait": "Ce travail porte sur l’étude de stabilité accélérée et à long terme de deux médicaments commercialisés, le Novafen 400 mg... et le Périnase",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "65",
+      "intervenant": "encadrant",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La problématique lie clairement les conditions de stockage accélérées et à long terme aux voies de dégradation des principes actifs.",
+      "extrait": "dans quelle mesure les conditions de stockage accélérées et à long terme influencent-elles la qualité des médicaments étudiés",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "65",
+      "intervenant": "rapporteur",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La problématique lie clairement les conditions de stockage accélérées et à long terme aux voies de dégradation des principes actifs.",
+      "extrait": "dans quelle mesure les conditions de stockage accélérées et à long terme influencent-elles la qualité des médicaments étudiés",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "65",
+      "intervenant": "president",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La problématique lie clairement les conditions de stockage accélérées et à long terme aux voies de dégradation des principes actifs.",
+      "extrait": "dans quelle mesure les conditions de stockage accélérées et à long terme influencent-elles la qualité des médicaments étudiés",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "66",
+      "intervenant": "encadrant",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Les objectifs sont explicitement formulés autour de l'évaluation de l'influence du stockage et de l'interprétation mécanistique.",
+      "extrait": "L’objectif est d’évaluer l’influence des conditions de stockage sur la qualité des produits et d’interpréter les voies possibles de dégradation des principes actifs.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "66",
+      "intervenant": "rapporteur",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Les objectifs sont explicitement formulés autour de l'évaluation de l'influence du stockage et de l'interprétation mécanistique.",
+      "extrait": "L’objectif est d’évaluer l’influence des conditions de stockage sur la qualité des produits et d’interpréter les voies possibles de dégradation des principes actifs.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "66",
+      "intervenant": "president",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Les objectifs sont explicitement formulés autour de l'évaluation de l'influence du stockage et de l'interprétation mécanistique.",
+      "extrait": "L’objectif est d’évaluer l’influence des conditions de stockage sur la qualité des produits et d’interpréter les voies possibles de dégradation des principes actifs.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "67",
+      "intervenant": "encadrant",
+      "note": 1.5,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "L'état de l'art aborde la stabilité, les directives ICH, les facteurs de dégradation et les méthodes analytiques, bien que le texte fourni soit partiellement tronqué.",
+      "extrait": "Les études de stabilité des produits pharmaceutiques constituent un paramètre très important pour le développement de nouveaux médicaments",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "67",
+      "intervenant": "rapporteur",
+      "note": 1.5,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "L'état de l'art aborde la stabilité, les directives ICH, les facteurs de dégradation et les méthodes analytiques, bien que le texte fourni soit partiellement tronqué.",
+      "extrait": "Les études de stabilité des produits pharmaceutiques constituent un paramètre très important pour le développement de nouveaux médicaments",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "67",
+      "intervenant": "president",
+      "note": 1.5,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "L'état de l'art aborde la stabilité, les directives ICH, les facteurs de dégradation et les méthodes analytiques, bien que le texte fourni soit partiellement tronqué.",
+      "extrait": "Les études de stabilité des produits pharmaceutiques constituent un paramètre très important pour le développement de nouveaux médicaments",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "68",
+      "intervenant": "encadrant",
+      "note": 0.7,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "L'approche combine des essais de stabilité normaux, accélérés et des tests de dégradation forcée couplés à l'analyse mécanistique.",
+      "extrait": "en combinant des études de stabilité à long terme, accélérées et des études de dégradation forcée, selon les recommandations ICH Q1A(R2)",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "68",
+      "intervenant": "rapporteur",
+      "note": 0.7,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "L'approche combine des essais de stabilité normaux, accélérés et des tests de dégradation forcée couplés à l'analyse mécanistique.",
+      "extrait": "en combinant des études de stabilité à long terme, accélérées et des études de dégradation forcée, selon les recommandations ICH Q1A(R2)",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "68",
+      "intervenant": "president",
+      "note": 0.7,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "L'approche combine des essais de stabilité normaux, accélérés et des tests de dégradation forcée couplés à l'analyse mécanistique.",
+      "extrait": "en combinant des études de stabilité à long terme, accélérées et des études de dégradation forcée, selon les recommandations ICH Q1A(R2)",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "69",
+      "intervenant": "encadrant",
+      "note": 1.5,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "L'analyse repose sur le suivi chromatographique et l'utilisation de logiciels spécifiques pour la validation et l'exploitation des données.",
+      "extrait": "Le suivi analytique, principalement par HPLC, a permis d’observer le maintien global du profil chromatographique",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "69",
+      "intervenant": "rapporteur",
+      "note": 1.5,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "L'analyse repose sur le suivi chromatographique et l'utilisation de logiciels spécifiques pour la validation et l'exploitation des données.",
+      "extrait": "Le suivi analytique, principalement par HPLC, a permis d’observer le maintien global du profil chromatographique",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "69",
+      "intervenant": "president",
+      "note": 1.5,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "L'analyse repose sur le suivi chromatographique et l'utilisation de logiciels spécifiques pour la validation et l'exploitation des données.",
+      "extrait": "Le suivi analytique, principalement par HPLC, a permis d’observer le maintien global du profil chromatographique",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "88",
+      "intervenant": "encadrant",
+      "note": 1.5,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "L'interprétation relie les résultats chromatographiques et les contraintes de stress aux structures chimiques des principes actifs.",
+      "extrait": "cette étude montre l’intérêt de combiner les résultats expérimentaux et l’analyse mécanistique afin de mieux comprendre la stabilité",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "88",
+      "intervenant": "rapporteur",
+      "note": 1.5,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "L'interprétation relie les résultats chromatographiques et les contraintes de stress aux structures chimiques des principes actifs.",
+      "extrait": "cette étude montre l’intérêt de combiner les résultats expérimentaux et l’analyse mécanistique afin de mieux comprendre la stabilité",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "88",
+      "intervenant": "president",
+      "note": 1.5,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "L'interprétation relie les résultats chromatographiques et les contraintes de stress aux structures chimiques des principes actifs.",
+      "extrait": "cette étude montre l’intérêt de combiner les résultats expérimentaux et l’analyse mécanistique afin de mieux comprendre la stabilité",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "89",
+      "intervenant": "encadrant",
+      "note": 1.5,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "Le travail comporte une forte composante empirique réalisée au sein d'un laboratoire de contrôle qualité industriel réel.",
+      "extrait": "au sein du laboratoire de contrôle qualité d’ADWYA",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "89",
+      "intervenant": "rapporteur",
+      "note": 1.5,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "Le travail comporte une forte composante empirique réalisée au sein d'un laboratoire de contrôle qualité industriel réel.",
+      "extrait": "au sein du laboratoire de contrôle qualité d’ADWYA",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "89",
+      "intervenant": "president",
+      "note": 1.5,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "Le travail comporte une forte composante empirique réalisée au sein d'un laboratoire de contrôle qualité industriel réel.",
+      "extrait": "au sein du laboratoire de contrôle qualité d’ADWYA",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "70",
+      "intervenant": "encadrant",
+      "note": 2.2,
+      "bareme_max": 3.0,
+      "note_source": "agent_ia",
+      "justification": "La rédaction est formelle, structurée et utilise un vocabulaire scientifique et technique adapté au domaine pharmaceutique.",
+      "extrait": "Ce mémoire est organisé en quatre chapitres.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "70",
+      "intervenant": "rapporteur",
+      "note": 2.2,
+      "bareme_max": 3.0,
+      "note_source": "agent_ia",
+      "justification": "La rédaction est formelle, structurée et utilise un vocabulaire scientifique et technique adapté au domaine pharmaceutique.",
+      "extrait": "Ce mémoire est organisé en quatre chapitres.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "70",
+      "intervenant": "president",
+      "note": 2.2,
+      "bareme_max": 3.0,
+      "note_source": "agent_ia",
+      "justification": "La rédaction est formelle, structurée et utilise un vocabulaire scientifique et technique adapté au domaine pharmaceutique.",
+      "extrait": "Ce mémoire est organisé en quatre chapitres.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "72",
+      "intervenant": "encadrant",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "L'introduction générale et les conclusions de chapitres cadrent bien le sujet et résument les apports du travail.",
+      "extrait": "Introduction générale... Conclusion générale",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "72",
+      "intervenant": "rapporteur",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "L'introduction générale et les conclusions de chapitres cadrent bien le sujet et résument les apports du travail.",
+      "extrait": "Introduction générale... Conclusion générale",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "72",
+      "intervenant": "president",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "L'introduction générale et les conclusions de chapitres cadrent bien le sujet et résument les apports du travail.",
+      "extrait": "Introduction générale... Conclusion générale",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "73",
+      "intervenant": "encadrant",
+      "note": 0.7,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Les références bibliographiques intègrent les guides réglementaires ICH et des sources spécifiques sur les molécules étudiées.",
+      "extrait": "selon les recommandations ICH Q1A(R2)",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "73",
+      "intervenant": "rapporteur",
+      "note": 0.7,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Les références bibliographiques intègrent les guides réglementaires ICH et des sources spécifiques sur les molécules étudiées.",
+      "extrait": "selon les recommandations ICH Q1A(R2)",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "73",
+      "intervenant": "president",
+      "note": 0.7,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Les références bibliographiques intègrent les guides réglementaires ICH et des sources spécifiques sur les molécules étudiées.",
+      "extrait": "selon les recommandations ICH Q1A(R2)",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "74",
+      "intervenant": "encadrant",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Le rapport présente un bon équilibre entre la partie bibliographique, la description méthodologique et l'analyse des résultats.",
+      "extrait": "Chapitre 1: Revue bibliographique... Chapitre 2: Matériel et méthodes... Chapitre 3: Résultats",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "74",
+      "intervenant": "rapporteur",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Le rapport présente un bon équilibre entre la partie bibliographique, la description méthodologique et l'analyse des résultats.",
+      "extrait": "Chapitre 1: Revue bibliographique... Chapitre 2: Matériel et méthodes... Chapitre 3: Résultats",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "74",
+      "intervenant": "president",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Le rapport présente un bon équilibre entre la partie bibliographique, la description méthodologique et l'analyse des résultats.",
+      "extrait": "Chapitre 1: Revue bibliographique... Chapitre 2: Matériel et méthodes... Chapitre 3: Résultats",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "90",
+      "intervenant": "encadrant",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "De nombreuses figures, chromatogrammes et tableaux structurés illustrent le texte et appuient la démonstration.",
+      "extrait": "Liste des figures... Liste des tableaux",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "90",
+      "intervenant": "rapporteur",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "De nombreuses figures, chromatogrammes et tableaux structurés illustrent le texte et appuient la démonstration.",
+      "extrait": "Liste des figures... Liste des tableaux",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "90",
+      "intervenant": "president",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "De nombreuses figures, chromatogrammes et tableaux structurés illustrent le texte et appuient la démonstration.",
+      "extrait": "Liste des figures... Liste des tableaux",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "91",
+      "intervenant": "encadrant",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La mise en page suit les standards académiques avec une hiérarchie claire des titres et des listes bien organisées.",
+      "extrait": "Table des matières",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "91",
+      "intervenant": "rapporteur",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La mise en page suit les standards académiques avec une hiérarchie claire des titres et des listes bien organisées.",
+      "extrait": "Table des matières",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "91",
+      "intervenant": "president",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La mise en page suit les standards académiques avec une hiérarchie claire des titres et des listes bien organisées.",
+      "extrait": "Table des matières",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "75",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "75",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "75",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "76",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "76",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "76",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "77",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "77",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "77",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "78",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "78",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "78",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "79",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "79",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "79",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "80",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "80",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "80",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "81",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "81",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "81",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "82",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "82",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "82",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "83",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "83",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "83",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "84",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 6.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "85",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 5.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "86",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 5.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "87",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 4.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    }
+  ],
+  "signaux_ia": [],
+  "meta": {
+    "generateur": "pfe_agent (MVP)",
+    "nb_criteres": 27,
+    "nb_criteres_evalues": 14,
+    "nb_criteres_non_evalues": 13,
+    "pages": 119
+  }
+}

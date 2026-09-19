@@ -1,0 +1,752 @@
+{
+  "idprojet": 2,
+  "session": 1,
+  "note": null,
+  "eval": [
+    {
+      "critere": "64",
+      "intervenant": "encadrant",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Le sujet combine habilement l'analyse fondamentale et technique pour la prédiction de la paire EUR/USD à travers une approche quantitative et empirique rigoureuse.",
+      "extrait": "La prédiction du taux de change EUR/USD : Analyse fondamentale et technique",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "64",
+      "intervenant": "rapporteur",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Le sujet combine habilement l'analyse fondamentale et technique pour la prédiction de la paire EUR/USD à travers une approche quantitative et empirique rigoureuse.",
+      "extrait": "La prédiction du taux de change EUR/USD : Analyse fondamentale et technique",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "64",
+      "intervenant": "president",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Le sujet combine habilement l'analyse fondamentale et technique pour la prédiction de la paire EUR/USD à travers une approche quantitative et empirique rigoureuse.",
+      "extrait": "La prédiction du taux de change EUR/USD : Analyse fondamentale et technique",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "65",
+      "intervenant": "encadrant",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La problématique est clairement explicitée autour de l'apport des déterminants macroéconomiques et de l'analyse technique.",
+      "extrait": "Dans quelle mesure les déterminants macroéconomiques fondamentaux permettent-ils d'expliquer et d'anticiper les fluctuations du taux de change EUR/USD",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "65",
+      "intervenant": "rapporteur",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La problématique est clairement explicitée autour de l'apport des déterminants macroéconomiques et de l'analyse technique.",
+      "extrait": "Dans quelle mesure les déterminants macroéconomiques fondamentaux permettent-ils d'expliquer et d'anticiper les fluctuations du taux de change EUR/USD",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "65",
+      "intervenant": "president",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La problématique est clairement explicitée autour de l'apport des déterminants macroéconomiques et de l'analyse technique.",
+      "extrait": "Dans quelle mesure les déterminants macroéconomiques fondamentaux permettent-ils d'expliquer et d'anticiper les fluctuations du taux de change EUR/USD",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "66",
+      "intervenant": "encadrant",
+      "note": 1.0,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Les hypothèses de recherche sont explicitement formulées, de H1 à H3, ciblant les différentiels de taux et la combinaison des approches.",
+      "extrait": "• H1 : Le différentiel de taux d'intérêt entre la Fed et la BCE est le déterminant fondamental le plus significatif du taux EUR/USD.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "66",
+      "intervenant": "rapporteur",
+      "note": 1.0,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Les hypothèses de recherche sont explicitement formulées, de H1 à H3, ciblant les différentiels de taux et la combinaison des approches.",
+      "extrait": "• H1 : Le différentiel de taux d'intérêt entre la Fed et la BCE est le déterminant fondamental le plus significatif du taux EUR/USD.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "66",
+      "intervenant": "president",
+      "note": 1.0,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Les hypothèses de recherche sont explicitement formulées, de H1 à H3, ciblant les différentiels de taux et la combinaison des approches.",
+      "extrait": "• H1 : Le différentiel de taux d'intérêt entre la Fed et la BCE est le déterminant fondamental le plus significatif du taux EUR/USD.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "67",
+      "intervenant": "encadrant",
+      "note": 1.6,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "L'état de l'art couvre de manière satisfaisante les théories des taux de change (PPA, parité des taux d'intérêt) et les déterminants financiers.",
+      "extrait": "La théorie de la parité de pouvoir d’achat (PPA), formalisée par Gustav Cassel au début du XXe siècle",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "67",
+      "intervenant": "rapporteur",
+      "note": 1.6,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "L'état de l'art couvre de manière satisfaisante les théories des taux de change (PPA, parité des taux d'intérêt) et les déterminants financiers.",
+      "extrait": "La théorie de la parité de pouvoir d’achat (PPA), formalisée par Gustav Cassel au début du XXe siècle",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "67",
+      "intervenant": "president",
+      "note": 1.6,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "L'état de l'art couvre de manière satisfaisante les théories des taux de change (PPA, parité des taux d'intérêt) et les déterminants financiers.",
+      "extrait": "La théorie de la parité de pouvoir d’achat (PPA), formalisée par Gustav Cassel au début du XXe siècle",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "68",
+      "intervenant": "encadrant",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La méthodologie associe habilement la régression MCO, l'analyse technique et des approches de classification supervisée (régression logistique, arbres de décision).",
+      "extrait": "Trois approches méthodologiques sont combinées : la régression par Moindres Carrés Ordinaires (MCO)... et les algorithmes de classification supervisée",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "68",
+      "intervenant": "rapporteur",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La méthodologie associe habilement la régression MCO, l'analyse technique et des approches de classification supervisée (régression logistique, arbres de décision).",
+      "extrait": "Trois approches méthodologiques sont combinées : la régression par Moindres Carrés Ordinaires (MCO)... et les algorithmes de classification supervisée",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "68",
+      "intervenant": "president",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La méthodologie associe habilement la régression MCO, l'analyse technique et des approches de classification supervisée (régression logistique, arbres de décision).",
+      "extrait": "Trois approches méthodologiques sont combinées : la régression par Moindres Carrés Ordinaires (MCO)... et les algorithmes de classification supervisée",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "69",
+      "intervenant": "encadrant",
+      "note": 1.6,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "L'analyse des résultats s'appuie sur des données statistiques précises (tableaux de régression MCO, matrices de corrélation et de confusion).",
+      "extrait": "Tableau 3: Résultats de la régression MCO — Variable dépendante : EUR/USD (2020–2025)",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "69",
+      "intervenant": "rapporteur",
+      "note": 1.6,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "L'analyse des résultats s'appuie sur des données statistiques précises (tableaux de régression MCO, matrices de corrélation et de confusion).",
+      "extrait": "Tableau 3: Résultats de la régression MCO — Variable dépendante : EUR/USD (2020–2025)",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "69",
+      "intervenant": "president",
+      "note": 1.6,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "L'analyse des résultats s'appuie sur des données statistiques précises (tableaux de régression MCO, matrices de corrélation et de confusion).",
+      "extrait": "Tableau 3: Résultats de la régression MCO — Variable dépendante : EUR/USD (2020–2025)",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "88",
+      "intervenant": "encadrant",
+      "note": 1.5,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "Les résultats empiriques sont interprétés au regard des hypothèses formulées, permettant d'évaluer la pertinence des modèles prédictifs.",
+      "extrait": "Ce chapitre constitue le cœur empirique du rapport : il soumet les déterminants théoriques à l'épreuve des données réelles",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "88",
+      "intervenant": "rapporteur",
+      "note": 1.5,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "Les résultats empiriques sont interprétés au regard des hypothèses formulées, permettant d'évaluer la pertinence des modèles prédictifs.",
+      "extrait": "Ce chapitre constitue le cœur empirique du rapport : il soumet les déterminants théoriques à l'épreuve des données réelles",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "88",
+      "intervenant": "president",
+      "note": 1.5,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "Les résultats empiriques sont interprétés au regard des hypothèses formulées, permettant d'évaluer la pertinence des modèles prédictifs.",
+      "extrait": "Ce chapitre constitue le cœur empirique du rapport : il soumet les déterminants théoriques à l'épreuve des données réelles",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "89",
+      "intervenant": "encadrant",
+      "note": 1.7,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "La contribution empirique est solide, reposant sur 168 observations mensuelles et l'élaboration d'un tableau de bord prédictif consolidé.",
+      "extrait": "Tableau 12: Tableau de bord prédictif consolidé — EUR/USD (Horizon T+1)",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "89",
+      "intervenant": "rapporteur",
+      "note": 1.7,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "La contribution empirique est solide, reposant sur 168 observations mensuelles et l'élaboration d'un tableau de bord prédictif consolidé.",
+      "extrait": "Tableau 12: Tableau de bord prédictif consolidé — EUR/USD (Horizon T+1)",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "89",
+      "intervenant": "president",
+      "note": 1.7,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "La contribution empirique est solide, reposant sur 168 observations mensuelles et l'élaboration d'un tableau de bord prédictif consolidé.",
+      "extrait": "Tableau 12: Tableau de bord prédictif consolidé — EUR/USD (Horizon T+1)",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "70",
+      "intervenant": "encadrant",
+      "note": 2.4,
+      "bareme_max": 3.0,
+      "note_source": "agent_ia",
+      "justification": "La rédaction est de bonne facture, professionnelle et structurée, bien que l'on relève quelques coquilles typographiques mineures dans les titres.",
+      "extrait": "Chapitre 1 : présentation de la société TeleTrade : Caractéristiques et description des tâches",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "70",
+      "intervenant": "rapporteur",
+      "note": 2.4,
+      "bareme_max": 3.0,
+      "note_source": "agent_ia",
+      "justification": "La rédaction est de bonne facture, professionnelle et structurée, bien que l'on relève quelques coquilles typographiques mineures dans les titres.",
+      "extrait": "Chapitre 1 : présentation de la société TeleTrade : Caractéristiques et description des tâches",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "70",
+      "intervenant": "president",
+      "note": 2.4,
+      "bareme_max": 3.0,
+      "note_source": "agent_ia",
+      "justification": "La rédaction est de bonne facture, professionnelle et structurée, bien que l'on relève quelques coquilles typographiques mineures dans les titres.",
+      "extrait": "Chapitre 1 : présentation de la société TeleTrade : Caractéristiques et description des tâches",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "72",
+      "intervenant": "encadrant",
+      "note": 0.9,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "L'introduction et la conclusion générale encadrent clairement la démarche, posant le contexte, la problématique et les principaux apports.",
+      "extrait": "Dans un contexte mondial marqué par une volatilité croissante des marchés financiers, la maîtrise des outils d'analyse...",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "72",
+      "intervenant": "rapporteur",
+      "note": 0.9,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "L'introduction et la conclusion générale encadrent clairement la démarche, posant le contexte, la problématique et les principaux apports.",
+      "extrait": "Dans un contexte mondial marqué par une volatilité croissante des marchés financiers, la maîtrise des outils d'analyse...",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "72",
+      "intervenant": "president",
+      "note": 0.9,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "L'introduction et la conclusion générale encadrent clairement la démarche, posant le contexte, la problématique et les principaux apports.",
+      "extrait": "Dans un contexte mondial marqué par une volatilité croissante des marchés financiers, la maîtrise des outils d'analyse...",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "73",
+      "intervenant": "encadrant",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Les références bibliographiques sont mentionnées dans le sommaire, témoignant de sources institutionnelles et académiques variées.",
+      "extrait": "Références bibliographiques -----------------------------------------------------------------------------------58",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "73",
+      "intervenant": "rapporteur",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Les références bibliographiques sont mentionnées dans le sommaire, témoignant de sources institutionnelles et académiques variées.",
+      "extrait": "Références bibliographiques -----------------------------------------------------------------------------------58",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "73",
+      "intervenant": "president",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Les références bibliographiques sont mentionnées dans le sommaire, témoignant de sources institutionnelles et académiques variées.",
+      "extrait": "Références bibliographiques -----------------------------------------------------------------------------------58",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "74",
+      "intervenant": "encadrant",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Le rapport est divisé en trois chapitres équilibrés entre la présentation de l'entreprise, le cadre théorique et l'analyse empirique.",
+      "extrait": "Le présent rapport est organisé en trois chapitres.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "74",
+      "intervenant": "rapporteur",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Le rapport est divisé en trois chapitres équilibrés entre la présentation de l'entreprise, le cadre théorique et l'analyse empirique.",
+      "extrait": "Le présent rapport est organisé en trois chapitres.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "74",
+      "intervenant": "president",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Le rapport est divisé en trois chapitres équilibrés entre la présentation de l'entreprise, le cadre théorique et l'analyse empirique.",
+      "extrait": "Le présent rapport est organisé en trois chapitres.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "90",
+      "intervenant": "encadrant",
+      "note": 0.9,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Les figures et les tableaux sont numérotés, intégrés avec pertinence et explicitement référencés dans le texte.",
+      "extrait": "Tableau 1: Statistiques descriptives des variables du modèle EUR/USD (2020–2025, n = 168)",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "90",
+      "intervenant": "rapporteur",
+      "note": 0.9,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Les figures et les tableaux sont numérotés, intégrés avec pertinence et explicitement référencés dans le texte.",
+      "extrait": "Tableau 1: Statistiques descriptives des variables du modèle EUR/USD (2020–2025, n = 168)",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "90",
+      "intervenant": "president",
+      "note": 0.9,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Les figures et les tableaux sont numérotés, intégrés avec pertinence et explicitement référencés dans le texte.",
+      "extrait": "Tableau 1: Statistiques descriptives des variables du modèle EUR/USD (2020–2025, n = 168)",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "91",
+      "intervenant": "encadrant",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La mise en page générale est soignée, respectant les normes académiques avec des listes, des titres et des sauts de section clairs.",
+      "extrait": "Sommaire\nINTRODUCTION GENERALE ------------------------------------------------------------------------------ 1",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "91",
+      "intervenant": "rapporteur",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La mise en page générale est soignée, respectant les normes académiques avec des listes, des titres et des sauts de section clairs.",
+      "extrait": "Sommaire\nINTRODUCTION GENERALE ------------------------------------------------------------------------------ 1",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "91",
+      "intervenant": "president",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La mise en page générale est soignée, respectant les normes académiques avec des listes, des titres et des sauts de section clairs.",
+      "extrait": "Sommaire\nINTRODUCTION GENERALE ------------------------------------------------------------------------------ 1",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "75",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "75",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "75",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "76",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "76",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "76",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "77",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "77",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "77",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "78",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "78",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "78",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "79",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "79",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "79",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "80",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "80",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "80",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "81",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "81",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "81",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "82",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "82",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "82",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "83",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "83",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "83",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "84",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 6.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "85",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 5.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "86",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 5.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "87",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 4.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    }
+  ],
+  "signaux_ia": [
+    {
+      "type": "plagiat_potentiel",
+      "confiance": "faible",
+      "description": "Le style de ce paragraphe ressemble fortement à un cours théorique standard sans lien explicite avec le stage ou le cas pratique traité — à vérifier avec l'étudiant.",
+      "extrait": "La théorie de la parité de pouvoir d’achat (PPA), formalisée par Gustav Cassel au début du XXe siècle, établit qu’à long terme, le taux de change entre deux monnaies s’ajuste pour égaliser le pouvoir d’achat des deux pays."
+    }
+  ],
+  "meta": {
+    "generateur": "pfe_agent (MVP)",
+    "nb_criteres": 27,
+    "nb_criteres_evalues": 14,
+    "nb_criteres_non_evalues": 13,
+    "pages": 72
+  }
+}

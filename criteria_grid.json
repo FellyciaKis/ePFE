@@ -1,0 +1,318 @@
+[
+  {
+    "id": "64",
+    "section": "Évaluation du Rapport",
+    "subsection": "Évaluation du FOND",
+    "label": "Originalité du sujet",
+    "bareme_max": 1.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "65",
+    "section": "Évaluation du Rapport",
+    "subsection": "Évaluation du FOND",
+    "label": "Présentation de la problématique",
+    "bareme_max": 1.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "66",
+    "section": "Évaluation du Rapport",
+    "subsection": "Évaluation du FOND",
+    "label": "Formulation claire des objectifs et/ou des hypothèses1",
+    "bareme_max": 1.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "67",
+    "section": "Évaluation du Rapport",
+    "subsection": "Évaluation du FOND",
+    "label": "Compréhension et qualité de la présentation de l'état de l'art",
+    "bareme_max": 2.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "68",
+    "section": "Évaluation du Rapport",
+    "subsection": "Évaluation du FOND",
+    "label": "Originalité de la méthodologie et de l'approche utilisée",
+    "bareme_max": 1.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "69",
+    "section": "Évaluation du Rapport",
+    "subsection": "Évaluation du FOND",
+    "label": "Rigueur dans l'analyse des résultats obtenus",
+    "bareme_max": 2.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "88",
+    "section": "Évaluation du Rapport",
+    "subsection": "Évaluation du FOND",
+    "label": "Interprétation des résultats obtenus",
+    "bareme_max": 2.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "89",
+    "section": "Évaluation du Rapport",
+    "subsection": "Évaluation du FOND",
+    "label": "La contribution empirique",
+    "bareme_max": 2.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "70",
+    "section": "Évaluation du Rapport",
+    "subsection": "Évaluation de la FORME",
+    "label": "Qualité de la rédaction?",
+    "bareme_max": 3.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "72",
+    "section": "Évaluation du Rapport",
+    "subsection": "Évaluation de la FORME",
+    "label": "Introduction et conclusion bien structurées",
+    "bareme_max": 1.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "73",
+    "section": "Évaluation du Rapport",
+    "subsection": "Évaluation de la FORME",
+    "label": "La qualité de la bibliographie?",
+    "bareme_max": 1.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "74",
+    "section": "Évaluation du Rapport",
+    "subsection": "Évaluation de la FORME",
+    "label": "Parties équilibrées",
+    "bareme_max": 1.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "90",
+    "section": "Évaluation du Rapport",
+    "subsection": "Évaluation de la FORME",
+    "label": "Bonne utilisation des figures et des tableaux",
+    "bareme_max": 1.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "91",
+    "section": "Évaluation du Rapport",
+    "subsection": "Évaluation de la FORME",
+    "label": "Qualité de la mise en Page",
+    "bareme_max": 1.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "75",
+    "section": "Évaluation de la présentation",
+    "subsection": "Évaluation du FOND",
+    "label": "Clarté et structuration de la présentation",
+    "bareme_max": 3.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "76",
+    "section": "Évaluation de la présentation",
+    "subsection": "Évaluation du FOND",
+    "label": "Maîtrise des concepts présentés?",
+    "bareme_max": 2.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "77",
+    "section": "Évaluation de la présentation",
+    "subsection": "Évaluation du FOND",
+    "label": "Transition fluide entre les diapositives",
+    "bareme_max": 1.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "78",
+    "section": "Évaluation de la présentation",
+    "subsection": "Évaluation du FOND",
+    "label": "Cohérence entre le contenu du rapport et celui de la présentation",
+    "bareme_max": 2.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "79",
+    "section": "Évaluation de la présentation",
+    "subsection": "Évaluation du FOND",
+    "label": "Attitude des étudiants et qualité des réponses aux questions du jury",
+    "bareme_max": 3.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "80",
+    "section": "Évaluation de la présentation",
+    "subsection": "Évaluation de la FORME",
+    "label": "Qualité des Diapositives?",
+    "bareme_max": 3.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "81",
+    "section": "Évaluation de la présentation",
+    "subsection": "Évaluation de la FORME",
+    "label": "Respect du temps alloué par le jury",
+    "bareme_max": 2.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "82",
+    "section": "Évaluation de la présentation",
+    "subsection": "Évaluation de la FORME",
+    "label": "Expression orale",
+    "bareme_max": 2.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "83",
+    "section": "Évaluation de la présentation",
+    "subsection": "Évaluation de la FORME",
+    "label": "Qualité de la mise en Page",
+    "bareme_max": 2.0,
+    "evaluators": [
+      "encadrant",
+      "rapporteur",
+      "president"
+    ]
+  },
+  {
+    "id": "84",
+    "section": "Déroulement du stage",
+    "subsection": null,
+    "label": "Assiduité des Étudiants",
+    "bareme_max": 6.0,
+    "evaluators": [
+      "encadrant"
+    ]
+  },
+  {
+    "id": "85",
+    "section": "Déroulement du stage",
+    "subsection": null,
+    "label": "Respect des échéances",
+    "bareme_max": 5.0,
+    "evaluators": [
+      "encadrant"
+    ]
+  },
+  {
+    "id": "86",
+    "section": "Déroulement du stage",
+    "subsection": null,
+    "label": "Autonomie des Étudiants",
+    "bareme_max": 5.0,
+    "evaluators": [
+      "encadrant"
+    ]
+  },
+  {
+    "id": "87",
+    "section": "Déroulement du stage",
+    "subsection": null,
+    "label": "Innovation, prise d’initiative, curiosité, motivations etc. et ergonomie",
+    "bareme_max": 4.0,
+    "evaluators": [
+      "encadrant"
+    ]
+  }
+]

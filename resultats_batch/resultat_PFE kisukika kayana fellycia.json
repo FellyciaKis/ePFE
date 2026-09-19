@@ -1,0 +1,752 @@
+{
+  "idprojet": 1,
+  "session": 1,
+  "note": null,
+  "eval": [
+    {
+      "critere": "64",
+      "intervenant": "encadrant",
+      "note": 0.5,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Le sujet porte sur la conception d'une plateforme de mise en relation dans le domaine de l'enfance, une thématique classique mais utile.",
+      "extrait": "Conception et Réalisation d’une plateforme de mise en relation entre demandeur et prestataire de services dans le domaine d’enfance.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "64",
+      "intervenant": "rapporteur",
+      "note": 0.5,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Le sujet porte sur la conception d'une plateforme de mise en relation dans le domaine de l'enfance, une thématique classique mais utile.",
+      "extrait": "Conception et Réalisation d’une plateforme de mise en relation entre demandeur et prestataire de services dans le domaine d’enfance.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "64",
+      "intervenant": "president",
+      "note": 0.5,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Le sujet porte sur la conception d'une plateforme de mise en relation dans le domaine de l'enfance, une thématique classique mais utile.",
+      "extrait": "Conception et Réalisation d’une plateforme de mise en relation entre demandeur et prestataire de services dans le domaine d’enfance.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "65",
+      "intervenant": "encadrant",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La problématique est correctement ciblée sur les enjeux de fiabilité et de sécurité pour les parents et les prestataires.",
+      "extrait": "Cette approche soulève des inquiétudes quant à la fiabilité et à la sécurité, tant pour les demandeurs que pour les prestataires de services.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "65",
+      "intervenant": "rapporteur",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La problématique est correctement ciblée sur les enjeux de fiabilité et de sécurité pour les parents et les prestataires.",
+      "extrait": "Cette approche soulève des inquiétudes quant à la fiabilité et à la sécurité, tant pour les demandeurs que pour les prestataires de services.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "65",
+      "intervenant": "president",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La problématique est correctement ciblée sur les enjeux de fiabilité et de sécurité pour les parents et les prestataires.",
+      "extrait": "Cette approche soulève des inquiétudes quant à la fiabilité et à la sécurité, tant pour les demandeurs que pour les prestataires de services.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "66",
+      "intervenant": "encadrant",
+      "note": 0.7,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Les objectifs sont exprimés à travers la description de la solution et des besoins fonctionnels, bien qu'une section dédiée explicite manque.",
+      "extrait": "Dans le but de simplifier la recherche de services pour l’enfance en créant une plateforme efficace centrée sur l’utilisateur.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "66",
+      "intervenant": "rapporteur",
+      "note": 0.7,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Les objectifs sont exprimés à travers la description de la solution et des besoins fonctionnels, bien qu'une section dédiée explicite manque.",
+      "extrait": "Dans le but de simplifier la recherche de services pour l’enfance en créant une plateforme efficace centrée sur l’utilisateur.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "66",
+      "intervenant": "president",
+      "note": 0.7,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Les objectifs sont exprimés à travers la description de la solution et des besoins fonctionnels, bien qu'une section dédiée explicite manque.",
+      "extrait": "Dans le but de simplifier la recherche de services pour l’enfance en créant une plateforme efficace centrée sur l’utilisateur.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "67",
+      "intervenant": "encadrant",
+      "note": 1.5,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "L'état de l'art analyse deux solutions existantes (Yoopies et BambinoSit) avec leurs avantages et inconvénients.",
+      "extrait": "Cette partie vise à évaluer les points forts et les faiblesses de Yoopies et Bambino en tant que service de garde en ligne",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "67",
+      "intervenant": "rapporteur",
+      "note": 1.5,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "L'état de l'art analyse deux solutions existantes (Yoopies et BambinoSit) avec leurs avantages et inconvénients.",
+      "extrait": "Cette partie vise à évaluer les points forts et les faiblesses de Yoopies et Bambino en tant que service de garde en ligne",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "67",
+      "intervenant": "president",
+      "note": 1.5,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "L'état de l'art analyse deux solutions existantes (Yoopies et BambinoSit) avec leurs avantages et inconvénients.",
+      "extrait": "Cette partie vise à évaluer les points forts et les faiblesses de Yoopies et Bambino en tant que service de garde en ligne",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "68",
+      "intervenant": "encadrant",
+      "note": 0.5,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "L'approche méthodologique repose sur Scrum et UML, ce qui est classique pour ce type de projet informatique.",
+      "extrait": "nous optons ainsi pour une approche agile Scrum, offrant la souplesse nécessaire pour s'ajuster aux changements.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "68",
+      "intervenant": "rapporteur",
+      "note": 0.5,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "L'approche méthodologique repose sur Scrum et UML, ce qui est classique pour ce type de projet informatique.",
+      "extrait": "nous optons ainsi pour une approche agile Scrum, offrant la souplesse nécessaire pour s'ajuster aux changements.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "68",
+      "intervenant": "president",
+      "note": 0.5,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "L'approche méthodologique repose sur Scrum et UML, ce qui est classique pour ce type de projet informatique.",
+      "extrait": "nous optons ainsi pour une approche agile Scrum, offrant la souplesse nécessaire pour s'ajuster aux changements.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "69",
+      "intervenant": "encadrant",
+      "note": 1.0,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "L'analyse des sprints et des fonctionnalités à travers les diagrammes montre une démarche structurée, malgré la troncature du rapport.",
+      "extrait": "Le troisième chapitre abordera la première release du projet, composée de deux sprints.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "69",
+      "intervenant": "rapporteur",
+      "note": 1.0,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "L'analyse des sprints et des fonctionnalités à travers les diagrammes montre une démarche structurée, malgré la troncature du rapport.",
+      "extrait": "Le troisième chapitre abordera la première release du projet, composée de deux sprints.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "69",
+      "intervenant": "president",
+      "note": 1.0,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "L'analyse des sprints et des fonctionnalités à travers les diagrammes montre une démarche structurée, malgré la troncature du rapport.",
+      "extrait": "Le troisième chapitre abordera la première release du projet, composée de deux sprints.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "88",
+      "intervenant": "encadrant",
+      "note": 1.0,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "Les résultats sont illustrés par des captures d'écran des différentes interfaces réalisées au fil des sprints.",
+      "extrait": "Des captures d'écran illustrant l'exécution de l'application seront également incluses.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "88",
+      "intervenant": "rapporteur",
+      "note": 1.0,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "Les résultats sont illustrés par des captures d'écran des différentes interfaces réalisées au fil des sprints.",
+      "extrait": "Des captures d'écran illustrant l'exécution de l'application seront également incluses.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "88",
+      "intervenant": "president",
+      "note": 1.0,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "Les résultats sont illustrés par des captures d'écran des différentes interfaces réalisées au fil des sprints.",
+      "extrait": "Des captures d'écran illustrant l'exécution de l'application seront également incluses.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "89",
+      "intervenant": "encadrant",
+      "note": 1.5,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "La contribution empirique se concrétise par le développement effectif de la plateforme Maminou au sein de l'entreprise L2T.",
+      "extrait": "Nom du projet : Maminou",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "89",
+      "intervenant": "rapporteur",
+      "note": 1.5,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "La contribution empirique se concrétise par le développement effectif de la plateforme Maminou au sein de l'entreprise L2T.",
+      "extrait": "Nom du projet : Maminou",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "89",
+      "intervenant": "president",
+      "note": 1.5,
+      "bareme_max": 2.0,
+      "note_source": "agent_ia",
+      "justification": "La contribution empirique se concrétise par le développement effectif de la plateforme Maminou au sein de l'entreprise L2T.",
+      "extrait": "Nom du projet : Maminou",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "70",
+      "intervenant": "encadrant",
+      "note": 2.0,
+      "bareme_max": 3.0,
+      "note_source": "agent_ia",
+      "justification": "La rédaction est globalement correcte et structurée, avec un bon niveau de français et un vocabulaire technique adapté.",
+      "extrait": "Le rapport se divise en quatre chapitres distincts.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "70",
+      "intervenant": "rapporteur",
+      "note": 2.0,
+      "bareme_max": 3.0,
+      "note_source": "agent_ia",
+      "justification": "La rédaction est globalement correcte et structurée, avec un bon niveau de français et un vocabulaire technique adapté.",
+      "extrait": "Le rapport se divise en quatre chapitres distincts.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "70",
+      "intervenant": "president",
+      "note": 2.0,
+      "bareme_max": 3.0,
+      "note_source": "agent_ia",
+      "justification": "La rédaction est globalement correcte et structurée, avec un bon niveau de français et un vocabulaire technique adapté.",
+      "extrait": "Le rapport se divise en quatre chapitres distincts.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "72",
+      "intervenant": "encadrant",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "L'introduction générale et la conclusion générale sont bien présentes et positionnent correctement le travail.",
+      "extrait": "Pour conclure ce rapport, nous procéderons à une évaluation globale de notre travail",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "72",
+      "intervenant": "rapporteur",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "L'introduction générale et la conclusion générale sont bien présentes et positionnent correctement le travail.",
+      "extrait": "Pour conclure ce rapport, nous procéderons à une évaluation globale de notre travail",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "72",
+      "intervenant": "president",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "L'introduction générale et la conclusion générale sont bien présentes et positionnent correctement le travail.",
+      "extrait": "Pour conclure ce rapport, nous procéderons à une évaluation globale de notre travail",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "73",
+      "intervenant": "encadrant",
+      "note": 0.5,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Une section de bibliographie est présente à la fin du document, bien que succincte.",
+      "extrait": "Bibliographie",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "73",
+      "intervenant": "rapporteur",
+      "note": 0.5,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Une section de bibliographie est présente à la fin du document, bien que succincte.",
+      "extrait": "Bibliographie",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "73",
+      "intervenant": "president",
+      "note": 0.5,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Une section de bibliographie est présente à la fin du document, bien que succincte.",
+      "extrait": "Bibliographie",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "74",
+      "intervenant": "encadrant",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Le rapport est divisé en quatre chapitres équilibrés entre l'étude préalable, l'analyse des besoins et les releases.",
+      "extrait": "Le rapport se divise en quatre chapitres distincts.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "74",
+      "intervenant": "rapporteur",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Le rapport est divisé en quatre chapitres équilibrés entre l'étude préalable, l'analyse des besoins et les releases.",
+      "extrait": "Le rapport se divise en quatre chapitres distincts.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "74",
+      "intervenant": "president",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Le rapport est divisé en quatre chapitres équilibrés entre l'étude préalable, l'analyse des besoins et les releases.",
+      "extrait": "Le rapport se divise en quatre chapitres distincts.",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "90",
+      "intervenant": "encadrant",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Le document contient de nombreuses figures, diagrammes UML et tableaux bien référencés.",
+      "extrait": "Liste des figures",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "90",
+      "intervenant": "rapporteur",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Le document contient de nombreuses figures, diagrammes UML et tableaux bien référencés.",
+      "extrait": "Liste des figures",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "90",
+      "intervenant": "president",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "Le document contient de nombreuses figures, diagrammes UML et tableaux bien référencés.",
+      "extrait": "Liste des figures",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "91",
+      "intervenant": "encadrant",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La mise en page est propre, structurée avec des listes, des titres clairs et des listes de tableaux/abréviations.",
+      "extrait": "Liste des abréviations",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "91",
+      "intervenant": "rapporteur",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La mise en page est propre, structurée avec des listes, des titres clairs et des listes de tableaux/abréviations.",
+      "extrait": "Liste des abréviations",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "91",
+      "intervenant": "president",
+      "note": 0.8,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La mise en page est propre, structurée avec des listes, des titres clairs et des listes de tableaux/abréviations.",
+      "extrait": "Liste des abréviations",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "75",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "75",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "75",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "76",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "76",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "76",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "77",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "77",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "77",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "78",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "78",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "78",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "79",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "79",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "79",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "80",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "80",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "80",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "81",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "81",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "81",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "82",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "82",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "82",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "83",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "83",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "83",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "84",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 6.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "85",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 5.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "86",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 5.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "87",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 4.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    }
+  ],
+  "signaux_ia": [
+    {
+      "type": "implementation_insuffisante",
+      "confiance": "moyenne",
+      "description": "Est-ce que la partie réalisation est suffisamment détaillée sur le plan technique et algorithmique, ou reste-t-elle principalement illustrée par des captures d'écran d'interfaces graphiques ? — à vérifier avec l'étudiant",
+      "extrait": "Des captures d'écran illustrant l'exécution de l'application seront également incluses."
+    }
+  ],
+  "meta": {
+    "generateur": "pfe_agent (MVP)",
+    "nb_criteres": 27,
+    "nb_criteres_evalues": 14,
+    "nb_criteres_non_evalues": 13,
+    "pages": 96
+  }
+}

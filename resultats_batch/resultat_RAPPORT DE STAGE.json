@@ -1,0 +1,745 @@
+{
+  "idprojet": 3,
+  "session": 1,
+  "note": null,
+  "eval": [
+    {
+      "critere": "64",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "L'extrait fourni est trop court (page de garde uniquement) pour juger de l'originalité du sujet.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "64",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "L'extrait fourni est trop court (page de garde uniquement) pour juger de l'originalité du sujet.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "64",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "L'extrait fourni est trop court (page de garde uniquement) pour juger de l'originalité du sujet.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "65",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "L'extrait fourni ne contient pas le corps du texte permettant d'évaluer la problématique.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "65",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "L'extrait fourni ne contient pas le corps du texte permettant d'évaluer la problématique.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "65",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "L'extrait fourni ne contient pas le corps du texte permettant d'évaluer la problématique.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "66",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "Aucune formulation d'objectifs ou d'hypothèses n'est présente dans cet extrait.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "66",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "Aucune formulation d'objectifs ou d'hypothèses n'est présente dans cet extrait.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "66",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "Aucune formulation d'objectifs ou d'hypothèses n'est présente dans cet extrait.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "67",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "L'état de l'art ne peut pas être évalué avec la seule page de garde.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "67",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "L'état de l'art ne peut pas être évalué avec la seule page de garde.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "67",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "L'état de l'art ne peut pas être évalué avec la seule page de garde.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "68",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "La méthodologie n'est pas décrite dans l'extrait fourni.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "68",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "La méthodologie n'est pas décrite dans l'extrait fourni.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "68",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "La méthodologie n'est pas décrite dans l'extrait fourni.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "69",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "Aucun résultat n'est présenté dans cet extrait.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "69",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "Aucun résultat n'est présenté dans cet extrait.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "69",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "Aucun résultat n'est présenté dans cet extrait.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "88",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "Aucun résultat ni interprétation ne figure dans l'extrait.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "88",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "Aucun résultat ni interprétation ne figure dans l'extrait.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "88",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "Aucun résultat ni interprétation ne figure dans l'extrait.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "89",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "La contribution empirique ne peut être évaluée sans le contenu du rapport.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "89",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "La contribution empirique ne peut être évaluée sans le contenu du rapport.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "89",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "La contribution empirique ne peut être évaluée sans le contenu du rapport.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "70",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "La qualité de la rédaction ne peut être jugée sur une simple page de garde.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "70",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "La qualité de la rédaction ne peut être jugée sur une simple page de garde.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "70",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "La qualité de la rédaction ne peut être jugée sur une simple page de garde.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "72",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "L'introduction et la conclusion sont absentes de cet extrait.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "72",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "L'introduction et la conclusion sont absentes de cet extrait.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "72",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "L'introduction et la conclusion sont absentes de cet extrait.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "73",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "La bibliographie n'est pas fournie dans l'extrait.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "73",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "La bibliographie n'est pas fournie dans l'extrait.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "73",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "La bibliographie n'est pas fournie dans l'extrait.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "74",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "L'équilibre des parties est inévaluable sur une page unique.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "74",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "L'équilibre des parties est inévaluable sur une page unique.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "74",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "L'équilibre des parties est inévaluable sur une page unique.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "90",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "Aucune figure ni tableau n'est présent dans l'extrait.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "90",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "Aucune figure ni tableau n'est présent dans l'extrait.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "90",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evaluable_par_ia",
+      "justification": "Aucune figure ni tableau n'est présent dans l'extrait.",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "91",
+      "intervenant": "encadrant",
+      "note": 0.5,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La page de garde est sobre et présente les informations essentielles de manière claire.",
+      "extrait": "RAPPORT DE STAGE",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "91",
+      "intervenant": "rapporteur",
+      "note": 0.5,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La page de garde est sobre et présente les informations essentielles de manière claire.",
+      "extrait": "RAPPORT DE STAGE",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "91",
+      "intervenant": "president",
+      "note": 0.5,
+      "bareme_max": 1.0,
+      "note_source": "agent_ia",
+      "justification": "La page de garde est sobre et présente les informations essentielles de manière claire.",
+      "extrait": "RAPPORT DE STAGE",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "75",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "75",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "75",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "76",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "76",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "76",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "77",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "77",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "77",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 1.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "78",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "78",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "78",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "79",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "79",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "79",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "80",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "80",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "80",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 3.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "81",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "81",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "81",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "82",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "82",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "82",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "83",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "83",
+      "intervenant": "rapporteur",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "83",
+      "intervenant": "president",
+      "note": "",
+      "bareme_max": 2.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "84",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 6.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "85",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 5.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "86",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 5.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    },
+    {
+      "critere": "87",
+      "intervenant": "encadrant",
+      "note": "",
+      "bareme_max": 4.0,
+      "note_source": "non_evalue",
+      "justification": "",
+      "extrait": "",
+      "valide_par_humain": false
+    }
+  ],
+  "signaux_ia": [],
+  "meta": {
+    "generateur": "pfe_agent (MVP)",
+    "nb_criteres": 27,
+    "nb_criteres_evalues": 14,
+    "nb_criteres_non_evalues": 13,
+    "pages": 1
+  }
+}
